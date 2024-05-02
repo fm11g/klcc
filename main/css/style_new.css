@@ -101,7 +101,7 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 	#first{margin-top:64px;}
 	.intro-blank .box-img img {height: 480px;}	
 	.intro-blank .box-copy{
-		top:15% ;
+		top:10% ;
 	}
 
 	.intro_head{
@@ -144,7 +144,7 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 @media (max-width:600px) {
 	/* .intro-blank {margin-bottom: 60px;} */
 	.intro-blank .box-img img {height: 400px;}
-	.intro-blank .box-copy {top: 20%;}
+	.intro-blank .box-copy {top: 10%;}
 	.intro-blank .box-copy strong {margin-bottom: 20px;font-size: 32px;line-height: 120%;}
 	.intro-blank .box-copy strong br.vs-br {display: block;}
 
