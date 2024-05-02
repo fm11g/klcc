@@ -127,7 +127,7 @@
     autoplay: true,
     dots: true,
     loop: true,
-    responsive: { 0: { items: 2 }, 768: { items: 3 }, 990: { items: 4 }
+    responsive: { 0: { items: 1.4 }, 768: { items: 3 }, 990: { items: 4 }
     }
     
   });
