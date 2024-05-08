@@ -6,7 +6,7 @@ $(document).ready(function(){
 
     // Check if user has already submitted upon page load
     if (hasSubmitted()) {
-        alert("이미 이벤트 참여하신 이력이 있어\n 15일 이후에 이벤트 신청이 가능합니다.\n 감사합니다.");
+        alert("이벤트 참여 이력이 있습니다.\n 15일 이후에 이벤트 신청해주세요.\n 감사합니다.");
         $("#fm-box").hide();
 
         // 이미 참여한 사용자에 대한 처리 (예: 다른 메시지, 리디렉션 등)
