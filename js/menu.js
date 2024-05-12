@@ -49,9 +49,9 @@ menu.innerHTML = `
                 <div class="middle">
                     <ul class="left" style="padding-left:0px;margin-top:15px;">                       
                         <li class="tab02" data-rel="menu-01" data-tit="국가자격증"><p><img src="img/favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">국가자격증 취득 지원<span class="blink menu_event"> 교육비 전액 환급</span></p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point" style="height:24px;margin-bottom:3px;"></li>
-                        <li class="tab02" data-rel="menu-02" data-tit="높은 시급 자격증"><p><img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">높은 시급 자격증 정보<span class="blink menu_event"> 무료 기출 문제</span></p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point" style="height:24px;margin-bottom:3px;"></li>
+                        <li class="tab02" data-rel="menu-02" data-tit="N잡, 부업 자격증 이벤트"><p><img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">N잡, 부업 자격증 이벤트<span class="blink menu_event"> 무료 기출 문제</span></p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point" style="height:24px;margin-bottom:3px;"></li>
 
-                        <li class="tab02" data-rel="menu-03" data-tit="노후 대비 자격증"><p><img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">노후 대비 자격증 정보<span class="blink menu_event"> 무료 기출 문제</span></p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point" style="height:24px;margin-bottom:3px;"></li>
+                        <!-- <li class="tab02" data-rel="menu-03" data-tit="노후 대비 자격증"><p><img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">노후 대비 자격증 정보<span class="blink menu_event"> 무료 기출 문제</span></p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point" style="height:24px;margin-bottom:3px;"></li> -->
                         <!-- <li class="tab02" data-rel="menu-04" data-tit="다이어트 연재"><p>다이어트 연재</p><img width="24" height="24" src="img/navigation.svg#light-primary" role="presentation" alt="" class="_SN-cu _SN-cv next_point"></li> -->
                         
                     </ul>
@@ -90,9 +90,14 @@ menu.innerHTML = `
                 </div>
                 <div class="menu-02">
                     <div class="set-con">
-                        <p>높은 시급 아르바이트</p>
+                        <p><a href="https://special-event.shop">N잡, 부업 자격증 이벤트</a></p>
                         <ul class="bottom">
-                        <li><p><a target="_self" href="./bs.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">베이비시터 <span class="blink menu_event"> 무료 기출 문제</span><br><span class="menu_ex">[시급 최대 6만원, 워라벨, 시간 조절 가능]</span></a></p></li>
+                        <li><p><a target="_self" href="https://special-event.shop/gbs.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">간병사 <span class="blink menu_event"> 취업 지원금 100만원</span><br><span class="menu_ex">[일급 15만원 이상, 높은 취업률, 경력 제한 없음]</span></a></p></li>
+                        <li><p><a target="_self" href="https://special-event.shop/wedding.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">결혼상담사 <span class="blink menu_event"> 무료 기출 문제</span><br><span class="menu_ex">[온라인 재택근무 가능, 빠른 취업 가능, 나이 많을수록 우대]</span></a></p></li>
+                        <li><p><a target="_self" href="https://special-event.shop/tarot-cards.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">타로심리상담사 <span class="blink menu_event"> 무료 기출 문제</span><br><span class="menu_ex">[시급 기본 6만원, 재택근무 가능, 시간 조절 가능]</span></a></p></li>
+                        <li><p><a target="_self" href="https://special-event.shop/bs.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">베이비시터 <span class="blink menu_event"> 무료 기출 문제</span><br><span class="menu_ex">[시급 최대 6만원, 워라벨, 시간 조절 가능]</span></a></p></li>
+                        <li><p><a target="_self" href="https://special-event.shop/pia.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">PIA사설탐정 <span class="blink menu_event"> 무료 기출 문제</span><br><span class="menu_ex">[하루 50만원 이상, 특수 전문직, 정년 없음]</span></a></p></li>
+                        
                         </ul>
                     
                         
