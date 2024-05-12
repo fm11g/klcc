@@ -794,12 +794,12 @@ footer{
 
 @media screen and (min-width: 556px) {
     h1 {
-        font-size: 55px;
+        font-size: 40px;
     }
 }
 @media screen and (max-width: 485px) {
     h1 {
-        font-size: 37px;
+        font-size: 30px !important;
     }
     .contents {
         padding: 40px 10px;
