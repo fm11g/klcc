@@ -141,8 +141,8 @@ function maxLengthCheck(object){
     setTimeout( function(){
         alert("보시면 더 좋은 자격증 혜택!\n\n농산물품질관리사 (초봉 4000 이상)\n수강료 지원 혜택");
         $(window).scrollTop(0);
-        window.location.reload();
-        // window.location.href='./result.html';
+        // window.location.reload();
+        window.location.href='./result.html';
        },1500);
 
  }
