@@ -332,12 +332,13 @@ function maxLengthCheck(object){
         var name =$('#name').val();
         var id = $('#id-number').val();
         var ph =$('#phone').val();
+        var sb =$('#sb').val();
         var time = $('#position').val();
         var message = $('#message').val();
     
         $('[name="user_name"]').val(name);
         $('[name="나이"]').val(id);
-    
+        $('[name="주소"]').val(sb);
         $('[name="휴대폰번호1"]').val('010');
          $('[name="휴대폰번호2"]').val(ph.substr(3,4));
          $('[name="휴대폰번호3"]').val(ph.substr(7,4));
@@ -350,7 +351,7 @@ function maxLengthCheck(object){
 
 
 $(function(){
- $('#name,#phone,#position,#id-number,#message,#agree11,#license').bind("keyup click change",form_check);
- $('#name,#phone,#position,#id-number,#message,#license').bind("keyup click change",form_check1);
+ $('#name,#phone,#position,#id-number,#message,#agree11,#license,#sb').bind("keyup click change",form_check);
+ $('#name,#phone,#position,#id-number,#message,#license,#sb').bind("keyup click change",form_check1);
  $('#license').bind("keyup click change",lic_pick);
 })
