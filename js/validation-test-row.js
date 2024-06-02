@@ -207,7 +207,7 @@ function maxLengthCheck(object){
         if(ph.substr(0, 3) == "010" && ph.length ==11 && regex.test(ph))
         {
            
-            if(regex.test(id) && id.length == 2 && id >=24 && id <51)
+            if(regex.test(id) && id.length == 2 && id >=23 && id <56)
             {
             
                 if( position != null )
@@ -253,7 +253,7 @@ function maxLengthCheck(object){
             {
             $('#send_message').css({transition:"1s"});
             $('#send_message').prop("disabled", true);
-            $('#send_message').prop("value", "24 ~ 50세까지 가능합니다.");
+            $('#send_message').prop("value", "23 ~ 55세까지 가능합니다.");
             $('#send_message').css({background:"#595959"});
             $('#send_message').css({cursor:"default"});     
             }
