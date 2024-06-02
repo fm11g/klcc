@@ -25,6 +25,7 @@ form.innerHTML = `
 
                                     <option value="자격증 선택" selected disabled>자격증 선택</option>
                                         <option value="손해평가사">손해평가사</option>
+                                        <option value="사회복지사">사회복지사</option>
                                         <option value="도로교통사고감정사">도로교통사고감정사</option>
                                         <option value="농산물품질관리사">농산물품질관리사</option>
                                         <option value="반려견스타일리스트">반려견스타일리스트</option>
