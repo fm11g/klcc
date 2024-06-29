@@ -179,7 +179,19 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 }
 
 
+.intro-link{
+    border: 1px solid #fff;
+    padding: 10px 50px;
+    color: #fff;
+    font-weight:500;
+    border-radius: 8px;
+}
 
+.intro-link:hover{
+  transition: 0.7s;
+  background-color: rgba(0, 0, 0, 0.6);
+  color:#c2c2c2;
+}
 
 
 

@@ -3,7 +3,7 @@ $(function() {
   var today = new Date();
   var year = today.getFullYear();
   var month = today.getMonth() + 1;
-  var day = today.getDate();
+  var day = today.getDate() ;
 
   // Set target date to next hour
   targetDate.setHours(targetDate.getHours() + 1);
