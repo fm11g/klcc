@@ -31,9 +31,9 @@
 </script>
 
 <!-- Event snippet for 손해평가사 - 페이지 조회 conversion page -->
-<script>
+<!-- <script>
     gtag('event', 'conversion', {'send_to': 'AW-11061217748/XkxICLjojpoYENSTs5op'});
-  </script>
+  </script> -->
   <!-- Meta Pixel Code -->
 <script>
     !function(f,b,e,v,n,t,s)
@@ -229,20 +229,26 @@
     <template id="menu"></template>
 
   <!-- main -->
-  <div class="main">
+  <div class="main" style="background:#fff;">
       
     <div class="inner">
        
         <div class="title" style="margin-bottom:40px;">
-            <br><br>
-            <a href="#sec05" class="scroll box">
-                
+            
+            
+               <div style="position:relative;">
+                <img src="https://dbdbdeep.com/site19/land/khjava/img/cont_01.jpg?v=2" style="width:100%;max-width:800px;">
+                <!-- <img src="https://dbdbdeep.com/site19/land/khjava/img/cont_02.jpg" style="width:100%;max-width:800px;"> -->
+                <!-- <img src="https://dbdbdeep.com/site19/land/khjava/img/cont_03.jpg?v=2" style="width:100%;max-width:800px;"> -->
+            </div>
+            <div style="position:absolute;top:30px;text-align: -webkit-center;left:0;right:0;">
+                <a href="#sec05" class="scroll box" style="border-color: #fff;background-color: rgba(0,0,0,0.6);">
                 <span class="timer" style="color:#fff;font-weight:700;">
                     혜택 마감 | <span id="day" style="font-weight:700;"></span> ( <span id="countdown" style="font-weight:700;"></span>)
                     </span>
                   </a> <br><br>
-            <img src="./img/edu.png" style="width:60px;margin:20px;">
-            <p class="top wow fadeInUp">정년 없는 국가 공인 전문직!<br>연봉 1억이 가능한 국가자격증<br>비용 부담없이 취득하세요!</p><br>
+                </div>
+            <p class="top wow fadeInUp">내일배움카드 국비전액지원!<br>초봉 4000만원 가능한!<br>풀스택 JAVA 개발 교육</p><br>
             <h1 class="wow fadeInUp">취업, 부업, 투잡 가능!<br>고연봉 전문직<br>국가 공인 자격증<br><br>손해평가사 취득 후<br>교육비 환급<br>특별지원 이벤트!</h1>
             <div class="wow fadeIn">
                 <a href="#fm-box" class="scroll btn-main blink" style="border:1px solid #fff;">
@@ -520,14 +526,13 @@
     <div class="wrap linkWrap">
         <div class="sec00 contents" style="padding-top:80px;">
             <div class="inner">
-                <p>
-                    <script language="javascript" type="text/javascript">
-                        today=new Date()
-                        document.write(today.getFullYear(),"년 ",today.getMonth()+1,"월 ",today.getDate(),"일 기준") 
-                    </script>
-                    <br>
-                    현재 <span class="counter blink" style="bottom:1px;">42</span> / 50 명 신청 중입니다.<br><span class="blink" style="padding-top:10px;color:red;">인원 마감시 종료됩니다.</span>
-                </p>
+            <p>
+                <script language="javascript" type="text/javascript">
+                    today=new Date()
+                    document.write(today.getFullYear(),"년 ",today.getMonth()+1,"월 ",today.getDate(),"일 기준") 
+                </script><br>
+                현재 <span class="counter" style="bottom:1px;">142</span> 명이 신청 대기 중입니다.
+            </p>
             <div class="box_02">
                 <div class="box_02_1">
                     <div style="position:relative;height:150px;overflow:hidden;">
@@ -644,19 +649,6 @@ padding-bottom:6px;
 
 </style>
 
-
-<div class="intro-blank wow fadeInLeft" style="width:100%;">
-    <a href="./gb-java-facebook.html"><div class="box-img"><img src="./img/kh-java.png" class="br50"></div>
-      <div class="box-copy">
-        <br><span class="intro_head blink" style="color:#ffafaf;">국비지원 100% 무료!</span><br>
-        <a href="./gb-java-facebook.html"><span class="intro_tag">JAVA 개발자 국비교육</span></a><br><br>
-        <span style="color:#e5e5e5;font-size:17px;">매월 최대 816,200원 지원<br>취업률 89%<br>선착순 30명 한정 제공!</span><br><br><br>
-      
-        </a> <br>
-        <a class="intro-link" href="./gb-java-facebook.html">더 알아보기 ></a>
-      </div>
-    </a>
-</div>
 
 <div class="intro-blank wow fadeInLeft" style="width:100%;">
 <a href="./kl-c.html"><div class="box-img"><img src="./img/003.png" class="br50"></div>
@@ -823,14 +815,17 @@ padding-bottom:6px;
     <!--footer 끝-->
 
     <script src="./js/menu.js" ></script>
-    <script src="./js/form.js"></script>
+    <script src="./js/form-java-dp.js"></script>
+    <!-- <script src="./js/form.js"></script> -->
     <script src="./js/mini-menu.js" ></script>
     <script src="./js/footer.js" ></script>
      <!-- Script File -->
      <!-- jQuery library -->
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
      <!-- Popper JS -->
-     <script src="js/validation.js"></script>
+     <script src="./js/jquery-1.8.3.min.js"></script>
+     <script src="./js/jquery-ui.min.js"></script>
+     <script src="js/validation-java-dp.js"></script>
      <script src="js/personal.js"></script>
     <script src="js/main.js" charset="euc-kr"></script>
     <script src="./js/count.js" ></script>
@@ -865,13 +860,52 @@ padding-bottom:6px;
     </script>
 
 
+
+<script src="./js/ValidCheck.js" charset='utf-8'></script>
+    
+<!-- jQuery 3.3.1 -->
+<script>
+
+function OnSubmit(f) {
+
+	if ( VC_inValidText(f.name, "이름") ) return;
+
+	if ( VC_inValidText(f.age, "나이") ) return;
+	if ( VC_inValidNumber(f.age, "나이") ) return;
+	
+	if ( VC_inValidText(f.tel1, "연락처") ) return;
+	if ( VC_inValidNumber(f.tel1, "연락처") ) return;
+	if ( VC_inValidText(f.tel2, "연락처") ) return;
+	if ( VC_inValidNumber(f.tel2, "연락처") ) return;
+	if ( VC_inValidText(f.tel3, "연락처") ) return;
+	if ( VC_inValidNumber(f.tel3, "연락처") ) return;
+	
+	if ( !f.agree[0].checked ) {
+		alert("개인정보 수집/이용, 취급/위탁에 동의해 주세요!   ");
+		return;
+	}
+	
+	f.auto_defense.value = "identicharddeep!";
+
+	dbdb_submitted = true;
+	f.submit();	
+}
+
+
+function dbdb_pri_popup() {
+	window.open("personal.html", "", "scrollbars=yes,status=no,width=618 height=618 top=0 left=0"); 
+}
+
+</script>	
+
+
 <script>
  $('#logo_img, #menu_logo').attr("src","./img/lic_favicon.png");
 $('#lgt, #menu_text').text("국가 자격증 지원 센터");
 $('[name="entry.302176945"]').val("손해평가사");
 $('[name="entry.925560115"]').val("메타");
 $('#form1').attr("name","fm");
-$('#select_lic').css({"display":"none"});
+// $('#select_lic').css({"display":"none"});
 $('.mn1').addClass("active");
 // alert($('#form1').attr("name"));
 </script>
