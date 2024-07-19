@@ -1,12 +1,15 @@
 const form = document.getElementById('form');
 form.innerHTML = `
 <div class="form-box" id="fm-box">
-<div class="inner">
-
-
-    <div style="text-align:-webkit-center;">
-       
-    <h1 class="form-top-title">특별 이벤트 & 무료 전화 상담 신청하기</h1>
+<div class="inner" style="text-align:-webkit-center;">
+<div style="text-align:-webkit-center;border:1.5px solid #000;width:95%;padding:10px 20px;max-width:450px;" > 
+<a href="" class="scroll box" style="border-color:#000;text-align:-webkit-center;">
+                    
+    <span class="timer" style="color:#000;font-size:14px;font-weight:600;">
+        혜택 마감 | <span id="day1" style="font-weight:600;"></span> ( <span id="countdown1" style="font-weight:600;"></span>)
+    </span>
+</a></div><br><br>
+<h1 class="form-top-title" style="line-height:200%;text-indent:0px;">간편한 신청으로<br>국비지원 100% 혜택과<br>빠른 취업 노하우 무료로 받기<br><br><span class="blink">교육비 소진시 혜택은 조기 종료됩니다</span><br><span style=font-size:20px;>[ 현재 남은 인원 <span class="blink counter" style="color:red;"> 8</span> 명 ]</span></h1>
     <div class="form-box-inner">
         <form action="" id="form_e11" method="POST" target="hidden_iframe11" onsubmit="dll(); submitted=true;">
           <input type="hidden" name="entry.925560115" value="당근">
