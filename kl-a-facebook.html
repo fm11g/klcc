@@ -1036,6 +1036,32 @@ padding-bottom:6px;
         });
     </script>
 
+<script type="text/javascript"> 
+	// F12 버튼 방지 
+	$(document).ready(function(){ 
+		$(document).bind('keydown',function(e){ 
+			if ( e.keyCode == 123 /* F12 */) { 
+				e.preventDefault(); 
+				e.returnValue = false; 
+                $(window).scrollTop(0);
+                 window.location.reload();
+			} 
+		}); 
+	}); 
+
+	// 우측 클릭 방지 
+	document.onmousedown=disableclick; 
+	status="Right click is not available."; 
+	function disableclick(event){ 
+		if (event.button==2) { 
+			alert(status); 
+            $(window).scrollTop(0);
+        window.location.reload();
+			return false; 
+		} 
+	} 
+</script> 
+
 
 <script>
  $('#logo_img, #menu_logo').attr("src","./img/lic_favicon.png");
@@ -1045,9 +1071,13 @@ $('[name="entry.925560115"]').val("메타");
 $('#form1').attr("name","fm");
 $('#select_lic').css({"display":"none"});
 $('.mn1').addClass("active");
-// alert($('#form1').attr("name"));
+document.getElementById('user_agent').value = navigator.userAgent;
 </script>
     
+<script>
+    // JavaScript to get the user agent and set it as the value of the hidden input
+    
+</script>
 
 </body>
 </html>
