@@ -171,7 +171,7 @@ button.active.focus, button.active:focus, button.focus, button:active.focus, but
 }
 .main .box {
     padding: 10px 25px;
-    font-size: 15px;
+    font-size: 12px;
     border: 1px solid #fff;
     color: #fff;
 }
