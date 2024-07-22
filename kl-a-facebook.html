@@ -1066,17 +1066,18 @@ padding-bottom:6px;
 <script>
  $('#logo_img, #menu_logo').attr("src","./img/lic_favicon.png");
 $('#lgt, #menu_text').text("국가 자격증 지원 센터");
-$('[name="entry.302176945"]').val("손해평가사");
+$('[name="entry.302176945"]').val("손해평가사");x
 $('[name="entry.925560115"]').val("메타");
 $('#form1').attr("name","fm");
 $('#select_lic').css({"display":"none"});
 $('.mn1').addClass("active");
-document.getElementById('user_agent').value = navigator.userAgent;
+$('[name="user_agent"]').val(navigator.userAgent);
+
 </script>
     
 <script>
     // JavaScript to get the user agent and set it as the value of the hidden input
-    
+// alert($('#user_agent').val());    
 </script>
 
 </body>
