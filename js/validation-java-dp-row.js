@@ -109,7 +109,7 @@ function maxLengthCheck(object){
  function hoa(){ 
         alert("빠르게 전화로 도움 드리겠습니다.\n전화 상담으로 진행되니\n전화를 꼭 받아주세요.");
         $(window).scrollTop(0);
-        window.location.href = './result.html';
+        window.location.href = './result-java.html';
  }
  
  function site1111(){
