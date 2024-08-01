@@ -113,7 +113,7 @@ menu.innerHTML = `
                 <div class="set-con">
                     <p><a href="./gb-java-facebook.html">국비지원 교육</a></p>
                     <ul class="bottom">
-                    <li><p><a target="_self" href="./">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">JAVA 개발자 교육<span class="blink menu_event"> 매월 816,200원 지원</span><br><span class="menu_ex">[취업률 89%, 높은 취업률, 경력, 전공 제한 없음]</span></a></p></li>
+                    <li><p><a target="_self" href="./gb-java-facebook.html">  <img src="img/lic_favicon.png" style="width:20px;margin-right:4px;margin-bottom:4px;">JAVA 개발자 교육<span class="blink menu_event"> 매월 816,200원 지원</span><br><span class="menu_ex">[취업률 89%, 높은 취업률, 경력, 전공 제한 없음]</span></a></p></li>
                     
                     
                     </ul>
