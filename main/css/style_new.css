@@ -91,7 +91,7 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 
 .intro-blank .box-img img {position: relative; width: 100%; height: calc(100vw * 9/21); object-fit: cover;  }
 /* .intro-blank .box-img::after {content: ""; position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: #aaa;} */
-.intro-blank .box-copy {  position: absolute; top: 30%; left: 50%; width: 100%; transform: translateX( -50%); text-align: center; }
+.intro-blank .box-copy {  position: absolute; top: 18%; left: 50%; width: 100%; transform: translateX( -50%); text-align: center; }
 .intro-blank .box-copy strong {animation: add_text 1s; display: block; margin-bottom: 25px; font-weight: 500; font-size: 60px; color: #fff;line-height: 72px;}
 .intro-blank .box-copy p { animation: add_text 1s; font-size: 34px; font-weight: 500; color: #fff;  line-height: 130%; }
 .intro-blank .box-img img.mo {display:none;}
