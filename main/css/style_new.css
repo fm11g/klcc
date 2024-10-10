@@ -99,7 +99,7 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 
 @media screen and (max-width: 1500px) {
 	#first{margin-top:64px;}
-	.intro-blank .box-img img {height: 480px;}	
+	.intro-blank .box-img img {height: 550px;}	
 	.intro-blank .box-copy{
 		top:10% ;
 	}
@@ -117,8 +117,8 @@ html, body {font-family:"NotoSansCJK", sans-serif; word-break:keep-all; width:10
 	
 }
 
-@media screen and (max-width: 1000px) {
-	.intro-blank .box-img img {height: 600px;object-position: top;}
+@media screen and (max-width: 1200px) {
+	.intro-blank .box-img img {height: 540px;object-position: top;}
 	.intro-blank .box-copy strong {font-size: 50px;}
 	.intro-blank .box-copy p {font-size: 30px;}
 
