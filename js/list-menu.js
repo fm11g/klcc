@@ -5,7 +5,7 @@ lm.innerHTML = `
 
    <div class="box-img"><img src="./img/kh-java.png" class="br50"></div>
       <div class="box-copy">
-        <br><span class="intro_head" style="color:#f2ff8c;">연봉 1억 비율 높고<br>인력 부족으로 대기업도 모셔가는</span><br>
+        <br><span class="intro_head" style="color:#f2ff8c;">평균 연봉 1.2억<br>인력 부족에 몸값 상승 중인</span><br>
         <a href="./gb-java-facebook.html"><span class="intro_tag">AI 전문가 교육 전액지원</span></a><br><br>
         <span style="color:#e5e5e5;font-size:17px;">650만원 교육비용 전액지원<br>취업 연계 지원!<br>선착순 30명 한정 제공!</span><br><br><br>
       
