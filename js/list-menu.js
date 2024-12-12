@@ -1,38 +1,12 @@
 const lm = document.getElementById('lm');
 lm.innerHTML = `
 
-<a href="./gb-java.html"><div class="intro-blank wow fadeInLeft" style="width:100%;">
 
-   <div class="box-img"><img src="./img/kh-java.png" class="br50"></div>
-      <div class="box-copy">
-        <br><span class="intro_head" style="color:#f2ff8c;">평균 연봉 1.2억<br>인력 부족에 몸값 상승 중인</span><br>
-        <a href="./gb-java.html"><span class="intro_tag">AI 전문가 교육 전액지원</span></a><br><br>
-        <span style="color:#e5e5e5;font-size:17px;">650만원 교육비용 전액지원<br>취업 연계 지원!<br>선착순 30명 한정 제공!</span><br><br><br>
-      
-       <br>
-        <a class="intro-link" href="./gb-java.html">더 알아보기 ></a>
-      </div>
-   
-</div> </a> 
-
-<a href="http://dbdbdeep.com/ma/link.php?lncd=S00274807UC05742788B"><div class="intro-blank wow fadeInLeft" style="width:100%;">
-
-   <div class="box-img"><img src="./img/kh-java.png" class="br50"></div>
-      <div class="box-copy">
-        <br><span class="intro_head" style="color:#f2ff8c;">평균 연봉 1.2억<br>인력 부족에 몸값 상승 중인</span><br>
-        <a href="http://dbdbdeep.com/ma/link.php?lncd=S00274807UC05742788B"><span class="intro_tag">AI 전문가 교육 전액지원</span></a><br><br>
-        <span style="color:#e5e5e5;font-size:17px;">650만원 교육비용 전액지원<br>취업 연계 지원!<br>선착순 30명 한정 제공!</span><br><br><br>
-      
-       <br>
-        <a class="intro-link" href="http://dbdbdeep.com/ma/link.php?lncd=S00274807UC05742788B">더 알아보기 ></a>
-      </div>
-   
-</div> </a> 
 
 
 <!-- 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276860FC05779542N">
         <div class="box-img"><img src="./img/kids.png" class="br40" style="object-position: top;"></div>
         <div class="box-copy">
@@ -47,7 +21,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/IcNoV5WK43">
         <div class="box-img"><img src="./img/kidsten.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -62,7 +36,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276594PC05778332X">
         <div class="box-img"><img src="./img/wink.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -77,7 +51,7 @@ lm.innerHTML = `
 </div> -->
 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">
         <div class="box-img"><img src="./img/onlyone.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -92,7 +66,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/ywTN0iZpBC">
         <div class="box-img"><img src="./img/mbest.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -107,7 +81,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ads">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/XgXHgZtY0P">
         <div class="box-img"><img src="./img/high.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -188,7 +162,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276860FC05779542N">
         <div class="box-img"><img src="./img/kids.png" class="br40" style="object-position: top;"></div>
         <div class="box-copy">
@@ -203,7 +177,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/IcNoV5WK43">
         <div class="box-img"><img src="./img/kidsten.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -218,7 +192,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276594PC05778332X">
         <div class="box-img"><img src="./img/wink.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -233,7 +207,7 @@ lm.innerHTML = `
 </div>
 
 <!-- <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">
         <div class="box-img"><img src="./img/onlyone.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -248,7 +222,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/ywTN0iZpBC">
         <div class="box-img"><img src="./img/mbest.png" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
@@ -263,7 +237,7 @@ lm.innerHTML = `
 </div>
 
 <div class="intro-blank wow fadeInLeft ad">
-    <div class="ad-label">AD</div> 
+     
     <a href="https://albarich.com/pt/XgXHgZtY0P">
         <div class="box-img"><img src="./img/high.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
