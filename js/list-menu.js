@@ -52,15 +52,15 @@ lm.innerHTML = `
 
 <div class="intro-blank wow fadeInLeft ads">
      
-    <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">
-        <div class="box-img"><img src="./img/onlyone.jpg" class="br50" style="object-position: top;"></div>
+    <a href="https://albarich.com/pt/ypAbgAooWq">
+        <div class="box-img"><img src="./img/lens.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
-            <br><span class="intro_head" style="color:#f2ff8c;">초등학교 자녀 성적이 고민이라면?</span><br>
-            <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F"><span class="intro_tag">초등 교과서 업체가 알려주는<br>[비상교육 온리원 무료체험]</span></a><br><br>
-            <span style="color:#e5e5e5;font-size:17px;">10일 무료체험 + 네이버페이 1만원 포인트 증정</span><br><br><br>
+            <br><span class="intro_head" style="color:#f2ff8c;">스케일 스마일 라식 지원자 모집</span><br>
+            <a href="https://albarich.com/pt/ypAbgAooWq"><span class="intro_tag">간단한 설문에 참여하고 혜택 받으세요.<br>[강남성모원안과의원]</span></a><br><br>
+            <span style="color:#e5e5e5;font-size:17px;">70여 가지 정밀검사 무료 + 최대혜택 적용/span><br><br><br>
           
             </a> <br>
-            <a class="intro-link" href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">더 알아보기 ></a>
+            <a class="intro-link" href="https://albarich.com/pt/ypAbgAooWq">더 알아보기 ></a>
           </div>
     </a>
 </div>
@@ -208,15 +208,15 @@ lm.innerHTML = `
 
 <!-- <div class="intro-blank wow fadeInLeft ad">
      
-    <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">
+    <a href="https://albarich.com/pt/ypAbgAooWq">
         <div class="box-img"><img src="./img/onlyone.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
             <br><span class="intro_head" style="color:#f2ff8c;">초등학교 자녀 성적이 고민이라면?</span><br>
-            <a href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F"><span class="intro_tag">초등 교과서 업체가 알려주는<br>[비상교육 온리원 무료체험]</span></a><br><br>
+            <a href="https://albarich.com/pt/ypAbgAooWq"><span class="intro_tag">초등 교과서 업체가 알려주는<br>[비상교육 온리원 무료체험]</span></a><br><br>
             <span style="color:#e5e5e5;font-size:17px;">10일 무료체험 + 네이버페이 1만원 포인트 증정</span><br><br><br>
           
             </a> <br>
-            <a class="intro-link" href="http://dbdbdeep.com/ma/link.php?lncd=S00276919VC05779678F">더 알아보기 ></a>
+            <a class="intro-link" href="https://albarich.com/pt/ypAbgAooWq">더 알아보기 ></a>
           </div>
     </a>
 </div>
