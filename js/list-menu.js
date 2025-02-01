@@ -52,15 +52,15 @@ lm.innerHTML = `
 
 <div class="intro-blank wow fadeInLeft ads">
      
-    <a href="https://special-event.site/bpo-event.html">
+    <a href="https://license-event.site/bpo-event.html">
         <div class="box-img"><img src="./img/bo1.png" class="br30" style="object-position: top;"></div>
         <div class="box-copy">
             <br><span class="intro_head" style="color:#f2ff8c;">무경력, 무스펙도 글로벌 기업에 취직하는<br>검증된 빠른 방법</span><br>
-            <a href="https://special-event.site/bpo-event.html"><span class="intro_tag">BPO 해외 취업<br>특별 지원 이벤트</span></a><br><br>
+            <a href="https://license-event.site/bpo-event.html"><span class="intro_tag">BPO 해외 취업<br>특별 지원 이벤트</span></a><br><br>
             <span style="color:#e5e5e5;font-size:17px;">취업 특별 무료 컨설팅 + 100만원 정착 지원금 지원</span><br><br><br>
           
             </a> <br>
-            <a class="intro-link" href="https://special-event.site/bpo-event.html">더 알아보기 ></a>
+            <a class="intro-link" href="https://license-event.site/bpo-event.html">더 알아보기 ></a>
           </div>
     </a>
 </div>
@@ -208,15 +208,15 @@ lm.innerHTML = `
 
 <!-- <div class="intro-blank wow fadeInLeft ad">
      
-    <a href="https://special-event.site/bpo-event.html">
+    <a href="https://license-event.site/bpo-event.html">
         <div class="box-img"><img src="./img/onlyone.jpg" class="br50" style="object-position: top;"></div>
         <div class="box-copy">
             <br><span class="intro_head" style="color:#f2ff8c;">초등학교 자녀 성적이 고민이라면?</span><br>
-            <a href="https://special-event.site/bpo-event.html"><span class="intro_tag">초등 교과서 업체가 알려주는<br>[비상교육 온리원 무료체험]</span></a><br><br>
+            <a href="https://license-event.site/bpo-event.html"><span class="intro_tag">초등 교과서 업체가 알려주는<br>[비상교육 온리원 무료체험]</span></a><br><br>
             <span style="color:#e5e5e5;font-size:17px;">10일 무료체험 + 네이버페이 1만원 포인트 증정</span><br><br><br>
           
             </a> <br>
-            <a class="intro-link" href="https://special-event.site/bpo-event.html">더 알아보기 ></a>
+            <a class="intro-link" href="https://license-event.site/bpo-event.html">더 알아보기 ></a>
           </div>
     </a>
 </div>
@@ -253,7 +253,7 @@ lm.innerHTML = `
 
 
 <div class="intro-blank wow fadeInLeft">
-<a href="https://special-event.site"><div class="box-img"><img src="./img/wedding.png" class="br50"></div>
+<a href="https://license-event.site"><div class="box-img"><img src="./img/wedding.png" class="br50"></div>
 <div class="box-copy">
   <strong><br>N잡, 부업, 알바<br>자격증 이벤트</strong>
   <span style="color:#e5e5e5;font-size:17px;">재택근무 가능, 시급 6만원 자격증 이벤트</span><br><br><br>
@@ -261,7 +261,7 @@ lm.innerHTML = `
     신청 마감 | <span id="day3" style="font-weight:bold;"></span> ( <span id="countdown3" style="font-weight:bold;"></span>)
     </span> -->
   </a> <br>
-  <a class="intro-link" href="https://special-event.site">더 알아보기 ></a>
+  <a class="intro-link" href="https://license-event.site">더 알아보기 ></a>
 </div>
 
 </div>
